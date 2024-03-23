@@ -1,11 +1,10 @@
-import { useState } from 'react'
-import './App.css'
+import Centercard from "../src/components/centercard.jsx"; 
 
 function App() {
 
   return (
     <>
-      
+    <Centercard></Centercard>
     </>
   )
 }
