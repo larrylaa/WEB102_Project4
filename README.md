@@ -4,22 +4,22 @@ Submitted by: **Larry La**
 
 This web app: **Web application similar to StumbleUpon allows users to generate/find random dogs and information about them. **
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **Clicking a button creates a new API fetch request and displays at least three attributes from the returned JSON data**
-- [ ] **Only one item/API call is viewable at a time**
-- [ ] **API calls appear random to the user**
-- [ ] **At least one image is displayed per API call**
-- [ ] **Clicking on a displayed value for one attribute adds it to a displayed ban list**
-- [ ] **Attributes on the ban list prevent further images/API results with that attribute from being displayed**
+- [X] **Clicking a button creates a new API fetch request and displays at least three attributes from the returned JSON data**
+- [X] **Only one item/API call is viewable at a time**
+- [X] **API calls appear random to the user**
+- [X] **At least one image is displayed per API call**
+- [X] **Clicking on a displayed value for one attribute adds it to a displayed ban list**
+- [X] **Attributes on the ban list prevent further images/API results with that attribute from being displayed**
 
 The following **optional** features are implemented:
 
-- [ ] Multiple types of attributes can be added to the ban list
+- [X] Multiple types of attributes can be added to the ban list
 - [ ] Users can see a stored history of their previously viewed items from their session
 
 The following **additional** features are implemented:
@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[https://imgur.com/a/AgN8WEL](https://imgur.com/a/AgN8WEL)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -41,11 +41,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+CSS bad.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Larry la]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
